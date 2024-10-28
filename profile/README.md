@@ -1,5 +1,7 @@
-## Hi there 👋
-Welcome to [UMass BioNLP](https://bio-nlp.github.io/) group on GitHub where we release our research open source. Check out UMass BioNLP's 🤗 [HuggingFace data and model](https://huggingface.co/bio-nlp-umass) cards. 
+## About 👋
+Welcome to [UMass BioNLP](https://bio-nlp.github.io/) group on GitHub where we release our research open source. Our group works on several research projects in natural language processing, machine learning, and data analytics, with a focus on healthcare applications. 
+
+Check out UMass BioNLP's 🤗 [HuggingFace data and model](https://huggingface.co/bio-nlp-umass) cards for public datasets. 
 
 
 ### Public Repository Disclosure
