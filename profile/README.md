@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to [UMass BioNLP](https://bio-nlp.org/) group on GitHub where we release our research open source. Check out UMass BioNLP's 🤗 [HuggingFace data and model](https://huggingface.co/bio-nlp-umass) cards. 
+Welcome to [UMass BioNLP](https://bio-nlp.github.io/) group on GitHub where we release our research open source. Check out UMass BioNLP's 🤗 [HuggingFace data and model](https://huggingface.co/bio-nlp-umass) cards. 
 
 
 ### Public Repository Disclosure
